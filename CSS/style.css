@@ -2,7 +2,7 @@ html{
     font-size: 62.5%;
     padding: 0;
     margin: 0;
-    background: url(/HV/IMG/fondo.jpg);
+    background: url(/IMG/fondo.jpg);
     background-size: 100%;
 }
 body{
@@ -13,7 +13,7 @@ header{
     display: block;
     width: 100%;
     height: 400px;
-    background: url(/HV/IMG/programacion.png)no-repeat;
+    background: url(/IMG/programacion.png)no-repeat;
     background-size: 100% ;
     background-position: 0px 0px;
     background-attachment: fixed;
